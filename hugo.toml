@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://okyang.github.io'
 languageCode = 'en-us'
 defaultContentLanguage = "en"
-title = 'Okay Decals'
+title = 'Okay Projects'
 theme = 'lynx'
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
@@ -14,6 +14,10 @@ image = "imgs/okay_decals.png"            # path relative to static directory
 links = [
     { link = { href = "https://okayprojects.etsy.com", text = "Etsy" } },
     { instagram = "https://www.instagram.com/okay.projects/" },
+    { youtube = "https://www.youtube.com/channel/UC1w2IIKQ_bqi_ST5ZaK68vg" },
+    { link = { href = "https://okyang.github.io/", text = "okyang.github.io"}},
+    { link = { href = "https://www.instructables.com/member/OwenY1", text = "Instructables"}},
+    { link = { href = "https://www.hackster.io/owenyang123", text = "Hackster.io"}},
 ]
 
 [module]
